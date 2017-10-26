@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Shimizu/26mAl+p/analysis'
+let g:netrw_dirhist_2='/Users/Shimizu/g4test/Al26m+p'
+let g:netrw_dirhist_3='/Users/Shimizu/Logbook/MakeBookReader/Base'

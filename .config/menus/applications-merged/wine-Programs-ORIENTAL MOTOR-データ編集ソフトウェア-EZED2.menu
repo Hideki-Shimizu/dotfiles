@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-ORIENTAL MOTOR</Name>
+    <Directory>wine-Programs-ORIENTAL MOTOR.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-ORIENTAL MOTOR-データ編集ソフトウェア</Name>
+    <Directory>wine-Programs-ORIENTAL MOTOR-データ編集ソフトウェア.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-ORIENTAL MOTOR-データ編集ソフトウェア-EZED2.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>
